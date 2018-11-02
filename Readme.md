@@ -1,4 +1,4 @@
-# How to create a new TypeScript project
+# TypeScript project
 
 This is a starter TypeScript project with minimal configuration.
 
